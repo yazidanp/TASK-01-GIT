@@ -55,7 +55,7 @@
 
 |Net Weavers|Name|Repo Address|  
 |-----------|----|------------|
-|1|Nandu krishna|-|
+|1|Nandu krishna|https://github.com/Nandukrishnat/TASK-01-GIT|
 |2|Arjun|-|
 |3|Lisana|-|
 |4|Gayathri|-|
