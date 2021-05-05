@@ -47,7 +47,7 @@
 |Query Crew|Name|Repo Address|  
 |----------|----|------------|
 |1|Hadiq|-|
-|2|Kiran|-|
+|2|Kiran|https://github.com/kirankrish792/TASK-01-GIT|
 |3|Pravitha|-|
 |4|Adil|-|
 |5|Greeshma|-|
