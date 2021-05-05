@@ -13,7 +13,7 @@
 |BugBusters|Name|Repo Address|  
 |----------|----|------------|
 |1|Shahla k|-|
-|2|Akshay M|-|
+|2|Akshay M|https://github.com/Akshay-mr/TASK-01-GIT|
 |3|Aswin V|-|
 |4|Ashitha N|-|
 |5|Nihad C V|-|
