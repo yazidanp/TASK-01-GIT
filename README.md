@@ -42,7 +42,7 @@
 |3|Avanthika|-|
 |4|Atif|-|
 |5|Yadunath|-|
-|6|Adnan|-|
+|6|Adnan|https://github.com/adnanzabdi/TASK-01-GIT|
 
 |Query Crew|Name|Repo Address|  
 |----------|----|------------|
